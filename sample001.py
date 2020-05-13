@@ -12,3 +12,9 @@ print(my_matrix1)
 print('Hello...')
 print('Bye for now!!')
 
+print('Added Later...'
+
+def fn_prn(p):
+  print('Printing...')
+  print(p)
+
